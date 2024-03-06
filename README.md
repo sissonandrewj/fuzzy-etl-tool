@@ -4,3 +4,6 @@ This uses Fuzz algorithms in order to match column names for uses such as data m
 
 This script is tuned for the provided template file, the code can be changed in order to accomodate matching certain template files to an import file.
 The demo files are provided as well. 
+
+This is purely for demo features, demonstrating that fuzzy algorithms can be used for data matching.
+
